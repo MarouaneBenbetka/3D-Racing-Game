@@ -17,4 +17,3 @@ This simple 3D racing game is designed as an introductory project for learning U
 
 ![RACE](./github_assets/race_overview.png)
 ![2Players](./github_assets/2players.png)
-"# 3D-Racing-Game" 
